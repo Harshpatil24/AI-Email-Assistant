@@ -1,0 +1,20 @@
+Frontend/.env
+.env
+**/.env
+node_modules
+# Local data storage
+data/
+
+# Build outputs
+Frontend/dist/
+Frontend/.cache/
+
+# Node.js dependencies
+Frontend/node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Python virtual environment
+Backend/venv/
