@@ -1,6 +1,6 @@
-#📧 Personalized AI Email Assistant
+### 📧 Personalized AI Email Assistant
 
-#🟠 Overview
+## 🟠 Overview
 
 The **AI Email Assistant** simplifies email management by automating the categorization, summarization, and prioritization of emails. 
 It is designed for students and professionals who receive many emails daily, helping them stay organized and focused on important messages.
