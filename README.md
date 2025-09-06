@@ -118,8 +118,9 @@ These upgrades will enable automatic email fetching, synchronization, and more a
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 144446" src="https://github.com/user-attachments/assets/f8caf4bb-0420-4ad2-b685-ea43cdb8aa67" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-06 144459" src="https://github.com/user-attachments/assets/29c81155-54ff-4ee9-b0f5-26b0ba3cd076" />
+<img width="1053" height="865" alt="Screenshot 2025-09-06 144459" src="https://github.com/user-attachments/assets/36ce38a5-fb9a-4bde-8983-080e594db320" />
 <img width="1920" height="719" alt="Screenshot 2025-09-06 144547" src="https://github.com/user-attachments/assets/06345e2b-8fcb-4018-8bd6-b58c572dd1c8" />
 <img width="1920" height="792" alt="Screenshot 2025-09-06 144625" src="https://github.com/user-attachments/assets/2d58a733-9ef4-4534-87eb-430029ca9421" />
+
 
 
